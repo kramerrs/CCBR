@@ -1,0 +1,12 @@
+Package: CCBR
+Type: Package
+Title: CCBR Functions (Title Case)
+Version: 0.1.0
+Author: Robin Kramer
+Maintainer: Robin Kramer <robin.kramer@nih.gov>
+Description: Functions that are used across multiple NIDAP templates.
+License: This is produced as a result of government work, no license.
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2021-10-18 14:53:48 UTC; kramerrs
